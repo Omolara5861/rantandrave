@@ -292,3 +292,10 @@
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+.btn-primary:focus {
+    color: #fff;
+    background-color: var(--secondary);
+    border-color: unset;
+    box-shadow: unset;
+}

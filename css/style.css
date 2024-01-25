@@ -299,3 +299,7 @@
     border-color: unset;
     box-shadow: unset;
 }
+
+.dropdown-item:active {
+    background-color: var(--secondary);
+}

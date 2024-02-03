@@ -2909,7 +2909,10 @@ select:visited {
 .bi-portfolio-tab-btn li:nth-child(4) .nav-link:before {
   background-color: #84d6d7;
 }
-
+.btn-primary {
+  background-color: #ff4141;
+  border: none !important;
+}
 .bi-portfolio-btn-img-area {
   margin-top: 30px;
 }

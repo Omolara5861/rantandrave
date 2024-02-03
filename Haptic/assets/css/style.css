@@ -2924,6 +2924,10 @@ select:visited {
 .bi-portfolio-community {
   margin-top: 15px;
 }
+.hap-banner-image img {
+ height: 100%;
+ object-fit: cover;
+}
 .bi-portfolio-community li {
   width: 46px;
   height: 46px;
